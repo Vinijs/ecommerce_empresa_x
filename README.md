@@ -26,3 +26,6 @@ __Melhoria 1__, _melhoria 2_
     3. CSS diferente para grupos de cliente
 3. Integração com outros pagamentos
 4. Sistema de bônus primeira compra
+
+#### Imagem local
+![Logo do Python](https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png)
