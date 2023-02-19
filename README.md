@@ -29,3 +29,6 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem local
 ![Logo do Python](https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png)
+
+#### Imagem externa
+![Logo do PHP](https://logospng.org/download/php/logo-php-1024.png)
